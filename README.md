@@ -9,6 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 *Raspberry Pi
+*Raspbian OS on SD card
+*HDMI monitor
+*Keyboard and mouse
 *Hardware Setup
 
 
@@ -20,18 +23,11 @@ A step by step series of examples that tell you how to get a development env run
 
 
 ```
-1)Install Atmel Studio 
-2)Install Sinaprog to program the microcontroller 
+1)Insert the microSD card into the card slot on the underside of the Raspberry Pi.
+2)Run programs from terminals. 
 3)Make setup for required hardware prototype as mentioned in above .pdf file 
 4)Use portal for data monitoring
 
-```
-
-For Report
-
-```
-1)Wireless Switching.pdf consists of finalised report of this project. 
-2)Wireless-Switching-System/Minro_project/Minro_project.c is the code for programmming AVR microcontroller.
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
